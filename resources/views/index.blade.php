@@ -53,6 +53,8 @@
                 <div class="separator-line-horrizontal-medium-light3 bg-deep-pink margin-5px-top float-start"></div>
             </div>
             <!-- end feature box item -->
+        </div>
+        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mt-5">
             <!-- start feature box item -->
             <div class="col-sm-8 feature-box-1 wow animate__fadeIn" data-wow-delay="0.4s">
                 <div class="d-flex align-items-center margin-15px-bottom alt-font">
@@ -83,6 +85,8 @@
                 <div class="separator-line-horrizontal-medium-light3 bg-deep-pink margin-5px-top float-start"></div>
             </div>
             <!-- end feature box item -->
+        </div>
+        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mt-5">
             <!-- start feature box item -->
             <div class="col-sm-8 feature-box-1 wow animate__fadeIn" data-wow-delay="0.4s">
                 <div class="d-flex align-items-center margin-15px-bottom alt-font">
