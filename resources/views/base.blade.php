@@ -40,7 +40,7 @@
                     <!-- end copyright -->
                     <!-- start logo -->
                     <div class="col-lg-4 col-md-2 text-center sm-margin-10px-bottom">
-                        <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/logo.png') }}" data-at2x="{{ asset('/assets/images/logo@2x.png') }}" alt="Pofo"></a>
+                        <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/logo.png') }}" data-at2x="{{ asset('/assets/images/logo.png') }}" alt="Pofo"></a>
                     </div>
                     <!-- end logo -->
                     <!-- start social media -->
