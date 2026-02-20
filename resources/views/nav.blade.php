@@ -2,7 +2,7 @@
 <nav class="navbar no-margin-bottom bootsnav alt-font bg-white sidebar-nav sidebar-nav-style-1 navbar-expand-lg">
     <!-- start logo -->
     <div class="col-12 sidenav-header">
-        <div class="mb-5">
+        <div class="logo-holder">
             <a href="{{ route('index') }}" class="d-inline-block logo"><img alt="Unifab" src="{{ asset('/assets/images/logo.png') }}" data-at2x="{{ asset('/assets/images/logo.png') }}" /></a>
         </div>
         <!-- end logo -->
@@ -16,13 +16,16 @@
         <div id="navbar-menu" class="collapse navbar-collapse no-padding">
             <ul class="nav navbar-nav navbar-left-sidebar font-weight-500">
                 <li class="dropdown">
-                    <a href="#" title="Home" data-bs-toggle="dropdown">Home<i class="fa-solid fa-angle-right pull-right"></i></a>
+                    <a href="{{ route('index') }}" title="Home" data-bs-toggle="dropdown">Home<i class="fa-solid fa-angle-right pull-right"></i></a>
                 </li>
                 <li class="dropdown">
-                    <a href="#" title="Home" data-bs-toggle="dropdown">About Us<i class="fa-solid fa-angle-right pull-right"></i></a>
+                    <a href="{{ route('about') }}" title="About" data-bs-toggle="dropdown">About Us<i class="fa-solid fa-angle-right pull-right"></i></a>
                 </li>
                 <li class="dropdown">
-                    <a href="#" title="Home" data-bs-toggle="dropdown">Contact Us<i class="fa-solid fa-angle-right pull-right"></i></a>
+                    <a href="{{ route('csr') }}" title="CSR" data-bs-toggle="dropdown">CSR<i class="fa-solid fa-angle-right pull-right"></i></a>
+                </li>
+                <li class="dropdown">
+                    <a href="{{ route('contact') }}" title="Contact" data-bs-toggle="dropdown">Contact Us<i class="fa-solid fa-angle-right pull-right"></i></a>
                 </li>
                 <li>
                     <div class="side-left-menu-close close-side"></div>
