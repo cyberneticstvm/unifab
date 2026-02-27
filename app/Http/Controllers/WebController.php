@@ -12,7 +12,7 @@ class WebController extends Controller
         $description = "";
         $keywords = "";
         $schema = "";
-        return view("index", compact('title', 'description', 'keywords', 'schema'));
+        return view("coming-soon", compact('title', 'description', 'keywords', 'schema'));
     }
 
     function about_us()
