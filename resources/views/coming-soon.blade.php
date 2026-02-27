@@ -30,11 +30,11 @@
     <section class="p-0 bg-extra-light-gray">
         <div class="container-fluid">
             <div class="row row-cols-1 row-cols-lg-2">
-                <div class="col minheight-fullscreen p-0 cover-background d-none d-lg-block" style="background-image:url('https://placehold.co/1400x1400');"></div>
+                <div class="col minheight-fullscreen p-0 cover-background d-none d-lg-block" style="background-image:url('{{ asset('/assets/images/unifab/ubg.jpeg') }}');"></div>
                 <div class="col minheight-fullscreen d-flex align-items-center bg-black p-0">
                     <div class="text-center padding-three-all sm-padding-15px-all w-100">
                         <div class="margin-nine-bottom md-margin-50px-bottom sm-margin-15px-bottom">
-                            <h2>UNIFAB.UK</h2>
+                            <h1>UNIFAB.UK</h1>
                         </div>
                         <h6 class="font-weight-300 text-white-2 margin-40px-bottom sm-margin-35px-bottom">We’re getting ready to launch</h6>
                         <div data-enddate="2025/01/01 12:00:00" class="countdown text-center counter-box-3 margin-nine-bottom"></div>
