@@ -50,6 +50,7 @@
                                         </div>
                                     </div>
                                 </form>-->
+                            <p><strong>Phone:</strong> 09122670406<br><strong>Mobile:</strong> 07861726814<br><strong>Email:</strong> <a href="mailto:uniform@unifab.uk">uniform@unifab.uk</a></p>
                         </div>
                         <div class="text-center social-icon-style-10 margin-eight-top sm-margin-30px-top">
                             <ul class="large-icon mobile-small mb-0">
