@@ -27,7 +27,7 @@
 
 <body>
     <!-- start countdown section -->
-    <section class="p-0 bg-extra-light-gray">
+    <section class="p-0">
         <div class="container-fluid">
             <div class="row row-cols-1 row-cols-lg-2">
                 <div class="col minheight-fullscreen p-0 cover-background d-none d-lg-block" style="background-image:url('https://placehold.co/1400x1400');"></div>
